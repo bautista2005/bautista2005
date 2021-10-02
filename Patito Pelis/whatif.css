@@ -1,0 +1,59 @@
+body{
+    background-color: blueviolet;
+
+}h3{
+    margin-left: 90px;
+    font-size: 25px;
+    padding-left: 512px;
+    color:white;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    
+}
+h2{
+    color: white;
+}
+.item2{
+    float: left;
+    margin-left: 50px;
+}
+.item{
+    float: left;
+}
+.button{
+    height: 45px;
+    width: 100px;
+    background-color: #4c4eaf; /* Green */
+    border-radius: 25px;
+    color: white;
+    padding: 1px 50px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+}
+.button2{
+    margin-left: 510px;
+    background-color: #4c4eaf; /* Green */
+    border-radius: 25px;
+    color: white;
+    padding: 15px 100px;
+    font-size: 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+}
+.button:hover{
+    transform:scale(1.1);
+}
+.button2:hover{
+    transform:scale(1.1);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.container{
+    margin-left: 65px;
+}
