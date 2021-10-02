@@ -1,0 +1,27 @@
+.body2{
+    background-color: blueviolet;
+
+}
+h3{
+    margin-left: 42px;
+    font-size: 25px;
+    padding-left: 512px;
+    color:white;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    
+}
+.button{
+    margin-left: 510px;
+    background-color: #4c4eaf; /* Green */
+    border-radius: 25px;
+    color: white;
+    padding: 15px 100px;
+    font-size: 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+}
+.button:hover{
+    transform:scale(1.1);
+}

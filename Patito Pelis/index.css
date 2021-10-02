@@ -1,0 +1,44 @@
+.button{
+    background-color: #4c4eaf; /* Green */
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+}
+.button:hover{
+    transform:scale(1.1);
+}
+
+h3{
+color:white;
+font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+
+}
+
+body{
+background-color: blueviolet;
+}
+h1{
+height: 50px;
+width: 200px;
+padding-left: 540px;
+color: white;
+font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+}
+
+h2{
+padding-left: 512px;
+color: white;
+font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+}
+
+.div2{
+    margin-left: 150px;
+}
+.div3{
+    margin-left: 150px;
+}
+
